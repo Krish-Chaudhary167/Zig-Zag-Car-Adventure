@@ -1,0 +1,6 @@
+Assets/** linguist-vendored
+Assets/**/*.fbx linguist-vendored
+Assets/**/*.png linguist-vendored
+Assets/**/*.hdr linguist-vendored
+Assets/**/*.mat linguist-vendored
+Assets/**/*.prefab linguist-vendored
